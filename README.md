@@ -1,6 +1,6 @@
 # Information Security
 
-This repository contains homework with explanations for course of Information Security at Inha University. Please be respectful and try to implement everything described below on your own and don't just copy. I made this repository for students who eager to know the basics of information security.
+This repository contains homework with explanations for course of Information Security. I don't wanna mention the university but if you finally figured out which course it is I ask you to be respectful and try to implement everything described below on your own and don't just copy. I made this repository for students who eager to know the basics of information security.
 
 **Table of contents:**
 1. Debugging with GDB
