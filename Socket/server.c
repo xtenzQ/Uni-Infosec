@@ -4,8 +4,9 @@
 #include <netinet/in.h> 
 #include <arpa/inet.h> 
 
+// Put your port and IP address
 #define SERV_TCP_PORT 9924 
-#define SERV_ADDR "165.246.38.157" 
+#define SERV_ADDR "127.0.0.1" 
 
 main(){ 
         int s1,s2,x, y; 
