@@ -15,5 +15,5 @@ This repository contains homework with explanations for course of Information Se
 
 To install project simply clone it:
 ```
-$ git clone https://github.com/xtenzQ/Uni-Infosec.git
+$ git clone git://github.com/xtenzQ/Uni-Infosec.git
 ```
