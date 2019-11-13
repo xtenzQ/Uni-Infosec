@@ -10,3 +10,10 @@ This repository contains homework with explanations for course of Information Se
 5. Winpcap sniffer
 6. Build your own packet with winpcap
 7. DES encryption
+
+## Install
+
+To install project simply clone it:
+```
+$ git clone https://github.com/xtenzQ/Uni-Infosec.git
+```
